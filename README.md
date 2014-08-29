@@ -1,6 +1,6 @@
 # test_api_app-cookbook
 pr test 1
-pr test 1
+jpr test 1
 pr test 1
 pr test 1
 pr test 1
